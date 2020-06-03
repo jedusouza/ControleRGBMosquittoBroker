@@ -8,8 +8,6 @@ Aplicação para alterar a cor da fita RGB utilizando dois microcontroladores, a
 ### Instalação
 
 * Instalação Mosquitto - [Download](mosquitto.org/download "Broker MQTT")
-* Montar o circuito.
-- [Exemplo Potenciômetros](https://raw.githubusercontent.com/jedusouza/ControleRGBMosquittoBroker/master/Controlador%20Potenciometros/Potenciometros.png "Circuito")
- - [Exemplo Fita RGB](https://raw.githubusercontent.com/jedusouza/ControleRGBMosquittoBroker/master/Controlador%20RGB/esquema.png)
+* Montar o circuito. - [Exemplo Potenciômetros](https://raw.githubusercontent.com/jedusouza/ControleRGBMosquittoBroker/master/Controlador%20Potenciometros/Potenciometros.png "Circuito") - [Exemplo Fita RGB](https://raw.githubusercontent.com/jedusouza/ControleRGBMosquittoBroker/master/Controlador%20RGB/esquema.png)
 * Organizar os pinos, rede e Broker no código.
 
